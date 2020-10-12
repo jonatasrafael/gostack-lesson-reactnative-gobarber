@@ -1,2 +1,3 @@
-# gostack-lesson-reactnative-gobarber
-Lesson - GoStack - GoBarber - Starting the front-end web with reactjs
+<h3 align="center">
+  React Native Application
+</h3>
